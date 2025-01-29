@@ -20,7 +20,13 @@ const Home = () => {
               Can also detect the facial expressions.
             </p>
             <div className="banner-run mt-8 flex flex-row">
-              <a href={""} target={"_blank"} rel="noreferrer">
+              <a
+                href={
+                  "https://github.com/Sharathchandrahas/Face-Emotion-Recognition-App-Sharath"
+                }
+                target={"_blank"}
+                rel="noreferrer"
+              >
                 <Button onClick={() => {}} rotateAnimation={false}>
                   <div className="banner-run-github rounded-lg border-none px-4 py-2 mr-8 flex flex-row items-center justify-center font-dmMono text-base bg-fg-1 transition-all drop-shadow-[0_5px_4px_rgba(254,143,143,1)] hover:scale-110 hover:drop-shadow-[0_10px_8px_rgba(254,143,143,1)]">
                     <span className="text-gray-700 text-lg">Github</span>

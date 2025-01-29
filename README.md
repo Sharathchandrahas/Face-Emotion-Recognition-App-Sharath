@@ -75,13 +75,15 @@ When the webcam is turned off (for example when the video call is completed), th
   - When the project is small, I haven't faced any problem in autocompletion, definitions, etc ...
   - As the project grew, the autocompletion has gone especially on variables of object type. I used to go back to the file where the variable is defined, and used to check its properties ;(
 
-<!-- ### To run on local server
+### To run on local server
+
 ```bash
-> git clone https://github.com/Eessh/face-emotion-recognition.git
+> git clone https://github.com/Sharathchandrahas/Face-Emotion-Recognition-App-Sharath
 > cd face-emotion-recognition
 > npm install
 > npm run start
-``` -->
+```
 
 There you have it 🙌
+
 # Face-Emotion-Recognition-App-Sharath
