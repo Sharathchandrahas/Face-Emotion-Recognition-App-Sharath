@@ -17,7 +17,6 @@
     "@testing-library/user-event": "^13.5.0",
     "face-api.js": "^0.22.2",
     "framer-motion": "^6.2.8",
-    "fs": "0.0.1-security",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
     "react": "^17.0.2",
@@ -55,5 +54,8 @@
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.7",
     "tailwindcss": "^3.0.23"
+  },
+  "resolutions": {
+    "face-api.js/fs": false
   }
 }
